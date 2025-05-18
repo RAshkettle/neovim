@@ -3,3 +3,4 @@ require("config.lazy")
 
 vim.opt.signcolumn = 'no'
 
+
